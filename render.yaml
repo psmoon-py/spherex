@@ -1,0 +1,10 @@
+# Optional: host the API server on Render's free plan (https://render.com/docs/free).
+# The free instance sleeps after 15 minutes without requests and takes about a minute to wake.
+# Untested at submission time: the archive's query service was down that weekend.
+services:
+  - type: web
+    name: six-months-apart-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health

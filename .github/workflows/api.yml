@@ -1,0 +1,19 @@
+name: api
+# Starts the API server and runs it against the real NASA/IPAC archive.
+# Run by hand from the Actions tab: it needs the archive's query service, which was returning
+# HTTP 502 during the submission weekend (14 to 15 November 2026).
+on:
+  workflow_dispatch:
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q -r backend/requirements.txt
+      - name: live API against the real archive
+        run: |
+          cd backend && (uvicorn app:app --port 8000 > ../server.log 2>&1 &) && sleep 6 && cd ..
+          python tools/api_smoke.py || (tail -40 server.log; exit 1)

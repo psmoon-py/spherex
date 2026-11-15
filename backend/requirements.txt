@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+numpy>=1.26
+astropy>=6.0
+fsspec>=2024.2
+aiohttp>=3.9

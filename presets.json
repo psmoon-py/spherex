@@ -1,0 +1,94 @@
+{
+ "_note": "Preset targets. Coordinates are ICRS degrees. pm = [pmra*cos(dec), pmdec] in mas/yr with the epoch (Julian year) of the listed position. Sources are given per entry.",
+ "targets": [
+  {
+   "slug": "barnard",
+   "name": "Barnard's Star",
+   "ra": 269.4464,
+   "dec": 4.7686,
+   "blurb": "The fastest-moving star in the sky: about 10.4 arcsec per year, mostly north.",
+   "track": {
+    "ra": 269.44850252544,
+    "dec": 4.73942005111,
+    "epoch": 2016.0,
+    "pm": [
+     -801.6,
+     10362.4
+    ],
+    "plx": 546.98,
+    "source": "Gaia DR3 (IRSA mirror); proper motion and parallax from Gaia DR3"
+   }
+  },
+  {
+   "slug": "wise0855",
+   "name": "WISE 0855-0714",
+   "ra": 133.7951292,
+   "dec": -7.2451472,
+   "blurb": "The coldest known brown dwarf. NASA's coordinates are where it was around 2010; it has since moved about 2 arcminutes west.",
+   "track": {
+    "ra": 133.7951292,
+    "dec": -7.2451472,
+    "epoch": 2010.4,
+    "pm": [
+     -8118.0,
+     680.0
+    ],
+    "plx": 449.0,
+    "source": "Position: NASA challenge text (WISE epoch, about 2010.4, approximate). Motion: Luhman & Esplin 2016 (arXiv:1605.06655)"
+   }
+  },
+  {
+   "slug": "epsindb",
+   "name": "Epsilon Indi B",
+   "ra": 331.0962,
+   "dec": -56.8005,
+   "blurb": "A pair of brown dwarfs orbiting a nearby star, drifting about 4.7 arcsec per year.",
+   "track": {
+    "ra": 331.04414658852,
+    "dec": -56.78284419512,
+    "epoch": 2000.0,
+    "pm": [
+     3981.977,
+     -2466.832
+    ],
+    "plx": 270.7,
+    "source": "CDS Sesame/SIMBAD position (J2000); proper motion and parallax of Epsilon Indi from its Wikipedia infobox, checked against the SPHEREx images, where the predicted position lands on the source"
+   }
+  },
+  {
+   "slug": "rwaur",
+   "name": "RW Aurigae",
+   "ra": 76.95652603458,
+   "dec": 30.40143817389,
+   "blurb": "A young variable star whose brightness changes; it does not visibly move.",
+   "track": null
+  },
+  {
+   "slug": "rdra",
+   "name": "R Draconis",
+   "ra": 248.16761083295,
+   "dec": 66.75497941722,
+   "blurb": "A pulsating red giant near the north ecliptic pole, where SPHEREx looks most often.",
+   "track": null
+  }
+ ],
+ "moving": [
+  {
+   "slug": "makemake",
+   "name": "Makemake",
+   "horizons_id": "136472",
+   "dates": [
+    "2025-06-02",
+    "2026-01-02",
+    "2026-06-05"
+   ],
+   "window_days": 2.5,
+   "detectors": [
+    1,
+    2
+   ],
+   "blurb": "A dwarf planet beyond Neptune. SPHEREx saw it from opposite sides of the Sun, so its position hops by about two degrees.",
+   "source": "Pointing from JPL Horizons (observer: SPHEREx spacecraft, 500@-163182); used only to choose where to look"
+  }
+ ]
+}

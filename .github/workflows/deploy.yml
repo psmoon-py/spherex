@@ -1,0 +1,37 @@
+name: deploy-site
+on:
+  push:
+    branches: [main]
+    paths: ['frontend/**', 'presets.json', '.github/workflows/deploy.yml']
+  workflow_run:
+    workflows: [build-packs]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: cd frontend && npm ci && npm test && npm run build
+      - name: add data packs
+        run: |
+          git fetch --depth 1 origin data
+          git archive FETCH_HEAD packs | tar -x -C frontend/dist/
+          touch frontend/dist/.nojekyll
+          # Address of a hosted API server, if there is one. None is hosted at submission time (see README),
+          # so the site says so at once instead of waiting for a server that will not answer.
+          API=""
+          API="${API%/}"; echo "API address written to the site: '$API'"
+          if [ -n "$API" ]; then printf '{"api": "%s"}\n' "$API" > frontend/dist/config.json; fi
+      - name: publish gh-pages
+        run: |
+          cd frontend/dist
+          git init -q -b gh-pages
+          git config user.name "github-actions"; git config user.email "actions@users.noreply.github.com"
+          git add -A; git commit -q -m "site build"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" gh-pages
