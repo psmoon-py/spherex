@@ -1,0 +1,291 @@
+
+## Barnard's Star: 358 frames, passes [0, 1, 2, 3, 4, 5], releases ['dr1', 'qr3'], TAP 75.1s
+   D1: 41/41 cutouts, 1.0 MB, 7.0s; lambda 0.741-1.107 um; FINAST!=0: 0
+      2025-08-27T05:07 pass 0 lam 0.750 bw 0.018 centre-aperture 3947586.8 +- 12811.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 34.5579 MJy/sr; median sigma 0.0208
+      2025-08-30T22:43 pass 0 lam 0.862 bw 0.022 centre-aperture 1167786.9 +- 7424.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 12.2557 MJy/sr; median sigma 0.0216
+      2025-09-30T14:03 pass 1 lam 0.750 bw 0.018 centre-aperture  924370.9 +- 5318.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 9.5187 MJy/sr; median sigma 0.0221
+      2026-03-11T02:16 pass 2 lam 0.780 bw 0.019 centre-aperture 4076294.2 +- 13725.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 30.2761 MJy/sr; median sigma 0.0234
+      2026-03-11T13:41 pass 2 lam 0.970 bw 0.025 centre-aperture 2361129.8 +- 7614.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 22.9688 MJy/sr; median sigma 0.0252
+      2026-08-23T23:06 pass 4 lam 0.813 bw 0.021 centre-aperture  744784.0 +- 6005.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 10.3454 MJy/sr; median sigma 0.0217
+   D2: 37/37 cutouts, 0.9 MB, 6.4s; lambda 1.101-1.661 um; FINAST!=0: 0
+      2025-08-21T23:34 pass 0 lam 1.101 bw 0.025 centre-aperture  481045.3 +- 4117.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 10.4999 MJy/sr; median sigma 0.0244
+      2025-08-27T06:38 pass 0 lam 1.238 bw 0.030 centre-aperture 1720776.2 +- 8955.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 24.6626 MJy/sr; median sigma 0.0226
+      2026-03-15T00:47 pass 2 lam 1.445 bw 0.035 centre-aperture 3273708.0 +- 12755.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 28.9109 MJy/sr; median sigma 0.0242
+      2026-03-15T07:20 pass 2 lam 1.629 bw 0.039 centre-aperture 2139706.0 +- 7865.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'PERSIST', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 22.7583 MJy/sr; median sigma 0.0244
+      2026-08-18T20:49 pass 4 lam 1.511 bw 0.037 centre-aperture 1953192.9 +- 9826.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 26.1316 MJy/sr; median sigma 0.0219
+      2026-08-21T15:38 pass 4 lam 1.313 bw 0.031 centre-aperture 2337115.2 +- 11218.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 32.5856 MJy/sr; median sigma 0.0231
+   D3: 40/40 cutouts, 1.0 MB, 6.1s; lambda 1.625-2.412 um; FINAST!=0: 0
+      2025-08-15T20:46 pass 0 lam 2.308 bw 0.057 centre-aperture 1961721.9 +- 6368.0 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 21.9878 MJy/sr; median sigma 0.0183
+      2025-08-21T15:23 pass 0 lam 1.873 bw 0.047 centre-aperture 2961747.5 +- 11420.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 31.1834 MJy/sr; median sigma 0.0194
+      2026-03-19T07:26 pass 2 lam 1.794 bw 0.044 centre-aperture 2064510.6 +- 9674.0 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 19.6706 MJy/sr; median sigma 0.0211
+      2026-03-22T08:45 pass 2 lam 2.155 bw 0.054 centre-aperture 1410667.2 +- 6736.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'PERSIST', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 16.9782 MJy/sr; median sigma 0.0204
+      2026-05-04T03:12 pass 3 lam 2.106 bw 0.053 centre-aperture 2013480.2 +- 9407.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 22.2837 MJy/sr; median sigma 0.0195
+      2026-08-17T00:53 pass 4 lam 1.767 bw 0.043 centre-aperture 2972908.0 +- 12207.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 31.4500 MJy/sr; median sigma 0.0199
+   D4: 41/41 cutouts, 1.0 MB, 6.7s; lambda 2.419-3.801 um; FINAST!=0: 0
+      2025-08-27T05:07 pass 0 lam 2.441 bw 0.054 centre-aperture 1087492.9 +- 5571.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 15.8948 MJy/sr; median sigma 0.0205
+      2025-08-30T22:41 pass 0 lam 2.781 bw 0.078 centre-aperture 1613697.4 +- 5776.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 16.5571 MJy/sr; median sigma 0.0150
+      2025-09-30T14:03 pass 1 lam 2.441 bw 0.054 centre-aperture 1220945.9 +- 6612.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 19.0577 MJy/sr; median sigma 0.0216
+      2026-03-11T02:16 pass 2 lam 2.547 bw 0.073 centre-aperture  823607.3 +- 5220.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 11.1316 MJy/sr; median sigma 0.0164
+      2026-03-11T13:41 pass 2 lam 3.272 bw 0.095 centre-aperture 3261095.5 +- 11401.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 28.9957 MJy/sr; median sigma 0.0161
+      2026-08-23T23:06 pass 4 lam 2.671 bw 0.075 centre-aperture 1727377.0 +- 7806.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 18.4460 MJy/sr; median sigma 0.0145
+   D5: 37/37 cutouts, 0.9 MB, 6.1s; lambda 3.804-4.429 um; FINAST!=0: 0
+      2025-08-21T23:34 pass 0 lam 3.822 bw 0.035 centre-aperture 5188226.0 +- 26262.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 43.0119 MJy/sr; median sigma 0.0301
+      2025-08-27T06:38 pass 0 lam 3.990 bw 0.036 centre-aperture 4668936.5 +- 18131.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 39.7012 MJy/sr; median sigma 0.0316
+      2026-03-15T00:47 pass 2 lam 4.223 bw 0.037 centre-aperture 4907237.0 +- 19369.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 41.0004 MJy/sr; median sigma 0.0406
+      2026-03-17T16:20 pass 2 lam 4.080 bw 0.037 centre-aperture 4858105.0 +- 14490.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 33.5981 MJy/sr; median sigma 0.0376
+      2026-08-18T20:49 pass 4 lam 4.290 bw 0.037 centre-aperture 4737983.5 +- 14170.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 35.8362 MJy/sr; median sigma 0.0347
+      2026-08-21T15:38 pass 4 lam 4.077 bw 0.037 centre-aperture 4362433.0 +- 12655.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 34.0057 MJy/sr; median sigma 0.0324
+   D6: 40/40 cutouts, 1.0 MB, 6.2s; lambda 4.412-5.002 um; FINAST!=0: 0
+      2025-08-15T20:46 pass 0 lam 4.929 bw 0.037 centre-aperture 2947711.2 +- 12044.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 25.6369 MJy/sr; median sigma 0.0574
+      2025-08-21T15:25 pass 0 lam 4.648 bw 0.037 centre-aperture 3437164.8 +- 12210.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 29.9341 MJy/sr; median sigma 0.0475
+      2026-03-19T07:26 pass 2 lam 4.551 bw 0.036 centre-aperture 3822569.5 +- 13455.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 27.5330 MJy/sr; median sigma 0.0533
+      2026-03-22T08:45 pass 2 lam 4.824 bw 0.038 centre-aperture 3431268.2 +- 8131.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 23.4980 MJy/sr; median sigma 0.0648
+      2026-05-04T03:12 pass 3 lam 4.789 bw 0.037 centre-aperture 3439285.5 +- 12705.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 24.8877 MJy/sr; median sigma 0.0504
+      2026-08-17T00:53 pass 4 lam 4.530 bw 0.036 centre-aperture 3744362.2 +- 14876.5 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'NONFUNC', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 32.7026 MJy/sr; median sigma 0.0430
+   Gaia stars: 400
+   done in 127s
+
+## WISE 0855-0714: 258 frames, passes [0, 1, 2, 3], releases ['dr1'], TAP 14.4s
+   D1: 34/34 cutouts, 0.9 MB, 6.5s; lambda 0.745-1.115 um; FINAST!=0: 0
+      2025-05-06T12:21 pass 0 lam 0.994 bw 0.026 centre-aperture      20.0 +-   58.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2531 MJy/sr; median sigma 0.0182
+      2025-10-31T17:23 pass 1 lam 0.882 bw 0.022 centre-aperture      66.4 +-   95.6 uJy; core flags ['NONFUNC', 'SOURCE']; nan frac 0.00; sky rms 0.2266 MJy/sr; median sigma 0.0194
+      2025-10-31T18:58 pass 1 lam 1.015 bw 0.027 centre-aperture     -22.7 +-   94.1 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'NONFUNC', 'SOURCE']; nan frac 0.00; sky rms 0.7813 MJy/sr; median sigma 0.0199
+      2025-11-03T10:37 pass 1 lam 0.749 bw 0.018 centre-aperture    -190.6 +-   65.7 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'SOURCE', 'HALO']; nan frac 0.00; sky rms 0.2327 MJy/sr; median sigma 0.0191
+      2026-05-01T15:44 pass 3 lam 1.092 bw 0.029 centre-aperture     118.7 +-  122.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.4152 MJy/sr; median sigma 0.0382
+      2026-05-03T06:51 pass 3 lam 0.817 bw 0.020 centre-aperture     -30.9 +-   56.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2416 MJy/sr; median sigma 0.0176
+   D2: 38/38 cutouts, 1.0 MB, 6.9s; lambda 1.100-1.629 um; FINAST!=0: 0
+      2025-05-06T02:34 pass 0 lam 1.516 bw 0.038 centre-aperture     123.9 +-   56.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2381 MJy/sr; median sigma 0.0174
+      2025-05-06T10:46 pass 0 lam 1.342 bw 0.032 centre-aperture      65.1 +-   55.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2283 MJy/sr; median sigma 0.0177
+      2025-11-07T18:50 pass 1 lam 1.285 bw 0.031 centre-aperture     -11.5 +-   60.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2465 MJy/sr; median sigma 0.0192
+      2025-11-07T22:13 pass 1 lam 1.628 bw 0.039 centre-aperture      31.9 +-   57.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2429 MJy/sr; median sigma 0.0178
+      2025-12-13T05:33 pass 2 lam 1.411 bw 0.034 centre-aperture      57.8 +-   54.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.1371 MJy/sr; median sigma 0.0167
+      2026-05-02T09:41 pass 3 lam 1.251 bw 0.030 centre-aperture     120.7 +-   58.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2352 MJy/sr; median sigma 0.0178
+   D3: 30/30 cutouts, 0.8 MB, 5.4s; lambda 1.629-2.414 um; FINAST!=0: 0
+      2025-05-05T16:49 pass 0 lam 2.365 bw 0.059 centre-aperture     131.3 +-   47.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.1329 MJy/sr; median sigma 0.0145
+      2025-11-10T07:15 pass 1 lam 1.745 bw 0.042 centre-aperture      39.0 +-   57.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.9843 MJy/sr; median sigma 0.0174
+      2025-11-14T12:12 pass 1 lam 2.078 bw 0.052 centre-aperture      89.2 +-   50.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.1737 MJy/sr; median sigma 0.0157
+      2025-12-12T06:48 pass 2 lam 1.896 bw 0.046 centre-aperture     -13.0 +-   48.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.1999 MJy/sr; median sigma 0.0151
+      2026-04-22T18:13 pass 3 lam 1.796 bw 0.044 centre-aperture      74.8 +-   50.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.1930 MJy/sr; median sigma 0.0155
+      2026-04-26T11:51 pass 3 lam 2.260 bw 0.056 centre-aperture     102.8 +-   44.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.1529 MJy/sr; median sigma 0.0137
+   D4: 34/34 cutouts, 0.9 MB, 6.6s; lambda 2.428-3.830 um; FINAST!=0: 0
+      2025-05-06T12:21 pass 0 lam 3.362 bw 0.095 centre-aperture     110.8 +-   44.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 2.6601 MJy/sr; median sigma 0.0118
+      2025-10-31T17:23 pass 1 lam 2.931 bw 0.087 centre-aperture      90.8 +-   41.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.3285 MJy/sr; median sigma 0.0126
+      2025-10-31T18:58 pass 1 lam 3.443 bw 0.099 centre-aperture     125.0 +-   43.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.9601 MJy/sr; median sigma 0.0129
+      2025-11-03T10:37 pass 1 lam 2.437 bw 0.049 centre-aperture      49.4 +-   61.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.6559 MJy/sr; median sigma 0.0193
+      2026-05-01T15:44 pass 3 lam 3.740 bw 0.102 centre-aperture     128.0 +-   39.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.4931 MJy/sr; median sigma 0.0120
+      2026-05-03T06:51 pass 3 lam 2.685 bw 0.077 centre-aperture      90.2 +-   41.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.6644 MJy/sr; median sigma 0.0121
+   D5: 38/38 cutouts, 1.0 MB, 6.3s; lambda 3.820-4.408 um; FINAST!=0: 0
+      2025-05-06T02:34 pass 0 lam 4.296 bw 0.038 centre-aperture   12611.0 +- 1014.4 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'NONFUNC', 'SOURCE']; nan frac 0.00; sky rms 0.4908 MJy/sr; median sigma 0.0390
+      2025-05-06T10:46 pass 0 lam 4.110 bw 0.037 centre-aperture      86.0 +-  109.4 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 3.3284 MJy/sr; median sigma 0.0333
+      2025-11-07T18:50 pass 1 lam 4.045 bw 0.037 centre-aperture     101.2 +-  113.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 8.3973 MJy/sr; median sigma 0.0347
+      2025-11-07T22:13 pass 1 lam 4.406 bw 0.038 centre-aperture     367.3 +-  151.4 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 6.2505 MJy/sr; median sigma 0.0431
+      2025-12-13T05:33 pass 2 lam 4.187 bw 0.037 centre-aperture     112.8 +-  101.6 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.1751 MJy/sr; median sigma 0.0316
+      2026-05-02T09:41 pass 3 lam 4.005 bw 0.036 centre-aperture     136.6 +-  103.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 7.1361 MJy/sr; median sigma 0.0306
+   D6: 30/30 cutouts, 0.8 MB, 5.1s; lambda 4.416-5.005 um; FINAST!=0: 0
+      2025-05-05T16:49 pass 0 lam 4.968 bw 0.037 centre-aperture     682.8 +-  234.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 22.6471 MJy/sr; median sigma 0.0679
+      2025-11-10T07:15 pass 1 lam 4.512 bw 0.036 centre-aperture     417.3 +-  168.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 8.6056 MJy/sr; median sigma 0.0500
+      2025-11-14T12:12 pass 1 lam 4.768 bw 0.036 centre-aperture     115.4 +-  190.9 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 9.4881 MJy/sr; median sigma 0.0594
+      2025-12-12T06:48 pass 2 lam 4.632 bw 0.036 centre-aperture    -190.6 +-  145.7 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 2.2597 MJy/sr; median sigma 0.0465
+      2026-04-22T18:13 pass 3 lam 4.553 bw 0.036 centre-aperture     238.9 +-  145.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 17.3611 MJy/sr; median sigma 0.0442
+      2026-04-26T11:51 pass 3 lam 4.897 bw 0.037 centre-aperture     133.6 +-  188.9 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.5387 MJy/sr; median sigma 0.0594
+   Gaia stars: 154
+   done in 93s
+
+## Epsilon Indi B: 458 frames, passes [0, 1, 2, 3], releases ['dr1', 'qr3'], TAP 68.3s
+   D1: 35/35 cutouts, 0.9 MB, 6.9s; lambda 0.750-1.092 um; FINAST!=0: 0
+      2025-04-25T06:18 pass 0 lam 0.756 bw 0.018 centre-aperture      83.7 +-   71.6 uJy; core flags ['SOURCE', 'HALO']; nan frac 0.00; sky rms 6.8188 MJy/sr; median sigma 0.0208
+      2025-10-05T06:45 pass 1 lam 0.982 bw 0.026 centre-aperture    8771.1 +-  122.5 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.3332 MJy/sr; median sigma 0.0234
+      2025-10-10T08:58 pass 1 lam 1.029 bw 0.027 centre-aperture   14752.1 +-  146.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.3475 MJy/sr; median sigma 0.0239
+      2025-10-16T18:06 pass 1 lam 0.767 bw 0.018 centre-aperture     -16.4 +-   61.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 6.9452 MJy/sr; median sigma 0.0195
+      2026-04-18T20:19 pass 2 lam 1.092 bw 0.029 centre-aperture   18123.4 +-  199.2 uJy; core flags ['SOURCE']; nan frac 0.01; sky rms 2.4030 MJy/sr; median sigma 0.0456
+      2026-04-20T22:55 pass 2 lam 0.850 bw 0.021 centre-aperture    1151.1 +-   77.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2779 MJy/sr; median sigma 0.0216
+   D2: 43/43 cutouts, 1.1 MB, 7.2s; lambda 1.095-1.651 um; FINAST!=0: 0
+      2025-04-24T20:32 pass 0 lam 1.562 bw 0.038 centre-aperture   36367.6 +-  196.9 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.3926 MJy/sr; median sigma 0.0185
+      2025-06-06T15:41 pass 0 lam 1.133 bw 0.027 centre-aperture   13979.4 +-  135.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 6.0924 MJy/sr; median sigma 0.0183
+      2025-10-02T02:05 pass 1 lam 1.337 bw 0.032 centre-aperture   12402.7 +-  124.7 uJy; core flags ['SOURCE', 'HALO']; nan frac 0.00; sky rms 0.3073 MJy/sr; median sigma 0.0185
+      2025-10-23T14:44 pass 1 lam 1.470 bw 0.036 centre-aperture   12600.8 +-  125.6 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.3139 MJy/sr; median sigma 0.0182
+      2026-04-25T02:18 pass 2 lam 1.400 bw 0.033 centre-aperture    5728.7 +-   97.2 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2945 MJy/sr; median sigma 0.0180
+      2026-09-30T12:13 pass 3 lam 1.147 bw 0.028 centre-aperture   13192.2 +-  132.6 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 2.8209 MJy/sr; median sigma 0.0186
+   D3: 48/48 cutouts, 1.2 MB, 7.9s; lambda 1.619-2.420 um; FINAST!=0: 0
+      2025-04-29T01:34 pass 0 lam 1.647 bw 0.039 centre-aperture   32042.1 +-  195.7 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 4.0159 MJy/sr; median sigma 0.0188
+      2025-05-01T18:45 pass 0 lam 2.376 bw 0.059 centre-aperture   11779.3 +-  220.2 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'SOURCE', 'HALO']; nan frac 0.00; sky rms 6.5398 MJy/sr; median sigma 0.0158
+      2025-09-29T13:49 pass 1 lam 2.043 bw 0.051 centre-aperture   23416.4 +-  156.7 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2653 MJy/sr; median sigma 0.0148
+      2026-04-29T03:54 pass 2 lam 1.805 bw 0.044 centre-aperture   11468.6 +-  122.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.3026 MJy/sr; median sigma 0.0178
+      2026-04-29T12:05 pass 2 lam 2.323 bw 0.058 centre-aperture   11445.2 +-  116.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.2224 MJy/sr; median sigma 0.0155
+      2026-09-25T05:16 pass 3 lam 2.415 bw 0.049 centre-aperture   13568.6 +-  198.8 uJy; core flags ['DICHROIC', 'SOURCE']; nan frac 0.00; sky rms 0.2042 MJy/sr; median sigma 0.0254
+   D4: 36/36 cutouts, 0.9 MB, 6.4s; lambda 2.414-3.787 um; FINAST!=0: 0
+      2025-04-25T06:16 pass 0 lam 2.414 bw 0.046 centre-aperture   14051.0 +-  309.4 uJy; core flags ['TRANSIENT', 'DICHROIC', 'SOURCE', 'HALO']; nan frac 0.34; sky rms 9.4707 MJy/sr; median sigma 0.0341
+      2025-10-05T06:45 pass 1 lam 3.314 bw 0.095 centre-aperture    9549.4 +-  142.6 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'SOURCE', 'HALO']; nan frac 0.00; sky rms 2.8740 MJy/sr; median sigma 0.0113
+      2025-10-10T09:00 pass 1 lam 3.591 bw 0.100 centre-aperture   20882.8 +-  134.4 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 15.9993 MJy/sr; median sigma 0.0116
+      2025-11-12T12:26 pass 1 lam 2.744 bw 0.077 centre-aperture    8854.1 +-  467.4 uJy; core flags ['NONFUNC', 'SOURCE']; nan frac 0.00; sky rms 2.6898 MJy/sr; median sigma 0.0153
+      2026-04-20T22:48 pass 2 lam 2.591 bw 0.074 centre-aperture    7949.5 +-   91.2 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 2.5306 MJy/sr; median sigma 0.0130
+      2026-04-21T19:58 pass 2 lam 3.212 bw 0.092 centre-aperture    9043.9 +-   93.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.4544 MJy/sr; median sigma 0.0114
+   D5: 42/42 cutouts, 1.1 MB, 8.2s; lambda 3.813-4.416 um; FINAST!=0: 0
+      2025-04-24T20:32 pass 0 lam 4.341 bw 0.038 centre-aperture   32288.9 +-  345.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 15.6541 MJy/sr; median sigma 0.0368
+      2025-06-06T15:41 pass 0 lam 3.862 bw 0.036 centre-aperture   49844.3 +-  398.7 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 41.4207 MJy/sr; median sigma 0.0279
+      2025-10-02T02:09 pass 1 lam 4.177 bw 0.037 centre-aperture   49501.9 +-  412.0 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 10.8470 MJy/sr; median sigma 0.0316
+      2025-10-23T14:46 pass 1 lam 4.285 bw 0.037 centre-aperture   34937.7 +-  350.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 20.0841 MJy/sr; median sigma 0.0364
+      2026-04-25T02:18 pass 2 lam 4.175 bw 0.037 centre-aperture   49331.8 +-  407.0 uJy; core flags ['SOURCE']; nan frac 0.01; sky rms 4.4854 MJy/sr; median sigma 0.0337
+      2026-10-01T01:16 pass 3 lam 4.105 bw 0.037 centre-aperture   51394.5 +-  410.1 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 9.6777 MJy/sr; median sigma 0.0310
+   D6: 47/47 cutouts, 1.2 MB, 8.3s; lambda 4.408-5.011 um; FINAST!=0: 0
+      2025-04-29T01:34 pass 0 lam 4.431 bw 0.037 centre-aperture   23579.2 +-  359.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 15.6363 MJy/sr; median sigma 0.0439
+      2025-05-01T13:58 pass 0 lam 4.463 bw 0.036 centre-aperture   21070.0 +-  329.9 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 5.0564 MJy/sr; median sigma 0.0432
+      2025-09-29T07:20 pass 1 lam 4.607 bw 0.036 centre-aperture   18494.9 +-  316.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 0.8909 MJy/sr; median sigma 0.0452
+      2025-10-06T05:30 pass 1 lam 4.847 bw 0.038 centre-aperture   19654.7 +-  424.3 uJy; core flags ['SOURCE', 'HALO']; nan frac 0.00; sky rms 39.1199 MJy/sr; median sigma 0.0549
+      2026-04-29T08:47 pass 2 lam 4.833 bw 0.036 centre-aperture   19129.8 +-  338.8 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 9.7405 MJy/sr; median sigma 0.0558
+      2026-09-22T05:27 pass 3 lam 4.492 bw 0.036 centre-aperture   15448.6 +-  321.7 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.3461 MJy/sr; median sigma 0.0431
+   Gaia stars: 142
+   done in 142s
+
+## RW Aurigae: 335 frames, passes [0, 1, 2], releases ['dr1', 'qr3'], TAP 16.3s
+   D1: 48/48 cutouts, 1.2 MB, 7.8s; lambda 0.741-1.119 um; FINAST!=0: 0
+      2025-09-01T10:05 pass 0 lam 1.068 bw 0.028 centre-aperture  149736.4 +-  412.2 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.6077 MJy/sr; median sigma 0.0380
+      2025-09-03T17:25 pass 0 lam 0.879 bw 0.022 centre-aperture  148692.0 +-  408.3 uJy; core flags ['SOURCE']; nan frac 0.00; sky rms 1.5168 MJy/sr; median sigma 0.0239
+      2026-03-04T07:55 pass 1 lam 0.858 bw 0.021 centre-aperture  200698.8 +-  527.1 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 2.1200 MJy/sr; median sigma 0.0234
+      2026-03-08T21:06 pass 1 lam 1.036 bw 0.028 centre-aperture  203994.1 +-  559.4 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 2.3610 MJy/sr; median sigma 0.0246
+      2026-09-02T02:20 pass 2 lam 0.982 bw 0.026 centre-aperture  212501.2 +-  578.4 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 1.9374 MJy/sr; median sigma 0.0246
+      2026-09-08T19:38 pass 2 lam 0.808 bw 0.020 centre-aperture  201293.3 +-  628.3 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 2.6685 MJy/sr; median sigma 0.0236
+   D2: 48/48 cutouts, 1.2 MB, 8.1s; lambda 1.094-1.646 um; FINAST!=0: 0
+      2025-09-08T06:37 pass 0 lam 1.441 bw 0.035 centre-aperture  238176.9 +- 1027.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 2.4351 MJy/sr; median sigma 0.0228
+      2025-09-09T20:12 pass 0 lam 1.243 bw 0.030 centre-aperture  256420.9 +-  676.1 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 2.3899 MJy/sr; median sigma 0.0236
+      2026-03-01T04:56 pass 1 lam 1.269 bw 0.031 centre-aperture  318747.4 +-  841.0 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 3.0395 MJy/sr; median sigma 0.0235
+      2026-03-05T05:10 pass 1 lam 1.608 bw 0.039 centre-aperture  513636.1 +- 1297.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 4.1264 MJy/sr; median sigma 0.0220
+      2026-09-10T09:05 pass 2 lam 1.462 bw 0.036 centre-aperture  340631.2 +- 1076.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'PERSIST', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 3.7304 MJy/sr; median sigma 0.0226
+      2026-09-13T13:41 pass 2 lam 1.608 bw 0.039 centre-aperture  536545.5 +- 1395.5 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 5.1483 MJy/sr; median sigma 0.0215
+   D3: 48/48 cutouts, 1.2 MB, 8.2s; lambda 1.621-2.421 um; FINAST!=0: 0
+      2025-09-11T16:16 pass 0 lam 2.354 bw 0.059 centre-aperture  663478.4 +- 3357.1 uJy; core flags ['TRANSIENT', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 5.8051 MJy/sr; median sigma 0.0182
+      2025-09-18T04:44 pass 0 lam 2.250 bw 0.056 centre-aperture  688879.4 +- 2533.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 5.5628 MJy/sr; median sigma 0.0176
+      2026-02-20T17:17 pass 1 lam 1.937 bw 0.047 centre-aperture  544674.5 +- 1688.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 5.7940 MJy/sr; median sigma 0.0189
+      2026-02-27T15:33 pass 1 lam 1.715 bw 0.041 centre-aperture  445587.8 +- 1070.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 3.7128 MJy/sr; median sigma 0.0218
+      2026-09-13T07:09 pass 2 lam 2.178 bw 0.054 centre-aperture  585216.7 +- 1313.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 4.7687 MJy/sr; median sigma 0.0183
+      2026-09-15T21:03 pass 2 lam 1.800 bw 0.044 centre-aperture  518188.8 +- 1317.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 4.3121 MJy/sr; median sigma 0.0204
+   D4: 48/48 cutouts, 1.2 MB, 8.0s; lambda 2.420-3.848 um; FINAST!=0: 0
+      2025-09-01T10:05 pass 0 lam 3.650 bw 0.102 centre-aperture 1455109.8 +- 4992.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 9.8763 MJy/sr; median sigma 0.0162
+      2025-09-03T17:25 pass 0 lam 2.921 bw 0.088 centre-aperture 1121329.2 +- 3444.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 8.2000 MJy/sr; median sigma 0.0151
+      2026-03-04T07:55 pass 1 lam 2.842 bw 0.081 centre-aperture  945780.2 +- 3295.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 7.7713 MJy/sr; median sigma 0.0154
+      2026-03-08T21:06 pass 1 lam 3.526 bw 0.099 centre-aperture 1280099.1 +- 6538.8 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 12.4269 MJy/sr; median sigma 0.0153
+      2026-09-02T02:20 pass 2 lam 3.317 bw 0.096 centre-aperture  822365.1 +- 2237.5 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 6.6815 MJy/sr; median sigma 0.0170
+      2026-09-08T19:38 pass 2 lam 2.652 bw 0.076 centre-aperture  836868.3 +- 2839.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 6.1894 MJy/sr; median sigma 0.0155
+   D5: 48/48 cutouts, 1.2 MB, 8.5s; lambda 3.813-4.424 um; FINAST!=0: 0
+      2025-09-08T06:37 pass 0 lam 4.218 bw 0.037 centre-aperture 2449063.2 +- 8409.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 18.9837 MJy/sr; median sigma 0.0428
+      2025-09-09T20:12 pass 0 lam 3.995 bw 0.037 centre-aperture 2128463.5 +- 8718.0 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 16.5305 MJy/sr; median sigma 0.0372
+      2026-03-01T04:56 pass 1 lam 4.026 bw 0.037 centre-aperture 1729872.5 +- 5620.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 17.3511 MJy/sr; median sigma 0.0365
+      2026-03-05T05:10 pass 1 lam 4.386 bw 0.038 centre-aperture 2197080.8 +- 4535.2 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 15.7915 MJy/sr; median sigma 0.0457
+      2026-09-10T09:05 pass 2 lam 4.240 bw 0.037 centre-aperture 1116129.5 +- 2517.1 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 15.7689 MJy/sr; median sigma 0.0422
+      2026-09-13T13:41 pass 2 lam 4.386 bw 0.038 centre-aperture 1316545.2 +- 2845.1 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 10.3139 MJy/sr; median sigma 0.0453
+   D6: 48/48 cutouts, 1.2 MB, 8.6s; lambda 4.409-5.012 um; FINAST!=0: 0
+      2025-09-11T16:16 pass 0 lam 4.961 bw 0.037 centre-aperture 2928573.5 +- 5891.5 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 56.7597 MJy/sr; median sigma 0.0821
+      2025-09-18T04:44 pass 0 lam 4.889 bw 0.037 centre-aperture 2885079.2 +- 10130.5 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 24.9579 MJy/sr; median sigma 0.0715
+      2026-02-20T17:17 pass 1 lam 4.663 bw 0.036 centre-aperture 1953434.1 +- 4160.0 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 14.7413 MJy/sr; median sigma 0.0571
+      2026-02-27T15:33 pass 1 lam 4.487 bw 0.036 centre-aperture 1710007.0 +- 3414.2 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 16.5623 MJy/sr; median sigma 0.0530
+      2026-09-13T07:09 pass 2 lam 4.839 bw 0.036 centre-aperture 1314495.2 +- 3044.8 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 14.6691 MJy/sr; median sigma 0.0718
+      2026-09-15T21:03 pass 2 lam 4.556 bw 0.036 centre-aperture 1508982.6 +- 3367.8 uJy; core flags ['OVERFLOW', 'SOURCE']; nan frac 0.00; sky rms 11.2192 MJy/sr; median sigma 0.0545
+   Gaia stars: 400
+   done in 84s
+
+## R Draconis: 2493 frames, passes [0, 1, 2], releases ['dr1', 'qr3'], TAP 13.6s
+   D1: 48/48 cutouts, 1.2 MB, 8.1s; lambda 0.741-1.113 um; FINAST!=0: 0
+      2025-06-06T11:23 pass 0 lam 0.944 bw 0.024 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 57.8054 MJy/sr; median sigma 0.0343
+      2025-07-14T17:32 pass 0 lam 0.780 bw 0.019 centre-aperture 1557080.6 +- 7179.3 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 15.1114 MJy/sr; median sigma 0.0193
+      2025-08-29T08:54 pass 1 lam 0.951 bw 0.025 centre-aperture 1805689.0 +- 8532.0 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 29.7639 MJy/sr; median sigma 0.0250
+      2025-09-24T12:34 pass 1 lam 1.048 bw 0.028 centre-aperture 1184604.6 +- 8662.2 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 46.1475 MJy/sr; median sigma 0.0294
+      2026-07-06T11:38 pass 2 lam 1.008 bw 0.027 centre-aperture 2102143.2 +- 11827.7 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'NONFUNC', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 45.3174 MJy/sr; median sigma 0.0243
+      2026-08-25T05:51 pass 2 lam 0.857 bw 0.022 centre-aperture 2593511.8 +- 12676.5 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 47.0961 MJy/sr; median sigma 0.0252
+   D2: 48/48 cutouts, 1.2 MB, 8.5s; lambda 1.093-1.621 um; FINAST!=0: 0
+      2025-06-08T18:55 pass 0 lam 1.405 bw 0.034 centre-aperture  966294.8 +- 4693.5 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 42.7389 MJy/sr; median sigma 0.0225
+      2025-06-22T15:37 pass 0 lam 1.135 bw 0.027 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 56.7784 MJy/sr; median sigma 0.0320
+      2025-11-18T17:36 pass 1 lam 1.410 bw 0.034 centre-aperture 1475169.2 +- 8983.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 27.3069 MJy/sr; median sigma 0.0204
+      2025-12-10T20:58 pass 1 lam 1.440 bw 0.035 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 37.1912 MJy/sr; median sigma 0.0338
+      2026-06-21T03:26 pass 2 lam 1.263 bw 0.030 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 26.2109 MJy/sr; median sigma 0.0246
+      2026-06-22T05:30 pass 2 lam 1.387 bw 0.033 centre-aperture  830222.9 +- 4316.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 18.7444 MJy/sr; median sigma 0.0193
+   D3: 48/48 cutouts, 1.2 MB, 8.4s; lambda 1.633-2.401 um; FINAST!=0: 0
+      2025-04-24T21:07 pass 0 lam 1.663 bw 0.040 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 93.8639 MJy/sr; median sigma 0.0459
+      2025-05-02T19:56 pass 0 lam 1.695 bw 0.041 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 47.8289 MJy/sr; median sigma 0.0412
+      2025-12-26T05:14 pass 1 lam 1.642 bw 0.039 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 76.0627 MJy/sr; median sigma 0.0392
+      2025-12-31T13:58 pass 1 lam 2.174 bw 0.055 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 57.4177 MJy/sr; median sigma 0.0386
+      2026-02-08T11:34 pass 2 lam 2.401 bw 0.058 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 68.6069 MJy/sr; median sigma 0.0406
+      2026-03-25T21:48 pass 2 lam 1.904 bw 0.047 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 69.2920 MJy/sr; median sigma 0.0340
+   D4: 48/48 cutouts, 1.2 MB, 7.9s; lambda 2.419-3.823 um; FINAST!=0: 0
+      2025-06-06T11:23 pass 0 lam 3.169 bw 0.093 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.02; sky rms 46.3968 MJy/sr; median sigma 0.0258
+      2025-07-17T10:39 pass 0 lam 2.833 bw 0.081 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 68.9955 MJy/sr; median sigma 0.0232
+      2025-08-29T08:54 pass 1 lam 3.199 bw 0.093 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 51.5717 MJy/sr; median sigma 0.0215
+      2025-09-20T17:18 pass 1 lam 3.768 bw 0.102 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 50.1578 MJy/sr; median sigma 0.0245
+      2026-07-06T11:38 pass 2 lam 3.418 bw 0.096 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 55.3412 MJy/sr; median sigma 0.0221
+      2026-08-25T05:46 pass 2 lam 2.690 bw 0.077 centre-aperture       0.0 +-    0.0 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 34.8513 MJy/sr; median sigma 0.0189
+   D5: 48/48 cutouts, 1.2 MB, 8.2s; lambda 3.797-4.400 um; FINAST!=0: 0
+      2025-06-08T18:55 pass 0 lam 4.180 bw 0.037 centre-aperture 7576684.0 +- 37780.3 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 133.7893 MJy/sr; median sigma 0.0561
+      2025-06-22T15:37 pass 0 lam 3.865 bw 0.036 centre-aperture 2737608.5 +- 16591.3 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 108.7977 MJy/sr; median sigma 0.0515
+      2025-11-18T17:36 pass 1 lam 4.185 bw 0.037 centre-aperture 5668185.5 +- 32880.4 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 104.5436 MJy/sr; median sigma 0.0490
+      2025-12-10T20:58 pass 1 lam 4.217 bw 0.037 centre-aperture 8715173.0 +- 40667.9 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 120.7236 MJy/sr; median sigma 0.0482
+      2026-06-21T03:26 pass 2 lam 4.019 bw 0.037 centre-aperture 10496064.0 +- 42409.6 uJy; core flags ['OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 136.7907 MJy/sr; median sigma 0.0454
+      2026-06-22T05:30 pass 2 lam 4.161 bw 0.037 centre-aperture 5130122.0 +- 27828.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 88.6424 MJy/sr; median sigma 0.0464
+   D6: 48/48 cutouts, 1.2 MB, 8.6s; lambda 4.400-5.004 um; FINAST!=0: 0
+      2025-04-24T21:07 pass 0 lam 4.444 bw 0.037 centre-aperture 15947406.0 +- 61165.2 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 174.4431 MJy/sr; median sigma 0.0608
+      2025-05-02T19:54 pass 0 lam 4.439 bw 0.037 centre-aperture 9385709.0 +- 44268.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 150.3604 MJy/sr; median sigma 0.0612
+      2025-12-26T05:14 pass 1 lam 4.427 bw 0.037 centre-aperture 5931946.5 +- 37087.4 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 110.8416 MJy/sr; median sigma 0.0595
+      2025-12-31T13:58 pass 1 lam 4.836 bw 0.037 centre-aperture 5934923.0 +- 24861.1 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 88.7411 MJy/sr; median sigma 0.0704
+      2026-02-08T11:34 pass 2 lam 4.993 bw 0.036 centre-aperture 10544537.0 +- 49359.7 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.00; sky rms 119.9269 MJy/sr; median sigma 0.0817
+      2026-03-25T23:25 pass 2 lam 4.738 bw 0.036 centre-aperture 6612055.5 +- 31070.6 uJy; core flags ['TRANSIENT', 'OVERFLOW', 'SUR_ERROR', 'SOURCE', 'BLOOM']; nan frac 0.01; sky rms 81.2894 MJy/sr; median sigma 0.0619
+   Gaia stars: 106
+   done in 66s
+
+## Makemake (moving target)
+   field 0 2025-06-02: centre 199.99991 21.51978, delta 52.2762 au, elongation 114.7 deg, 16 frames in window
+      2025-06-01T07:44 D2 lam 1.469: truth at col  25.3 row  27.2; flux there   253.3 +-  54.5 uJy (S/N   4.6); flags ['SOURCE']
+      2025-06-01T07:46 D2 lam 1.504: truth at col  25.3 row  27.2; flux there   373.6 +-  55.6 uJy (S/N   6.7); flags ['SOURCE']
+      2025-06-01T07:48 D2 lam 1.541: truth at col  25.3 row  27.2; flux there   545.9 +-  93.4 uJy (S/N   5.8); flags ['OUTLIER', 'SOURCE']
+      2025-06-01T07:50 D2 lam 1.578: truth at col  25.3 row  27.2; flux there   274.9 +-  55.1 uJy (S/N   5.0); flags ['OUTLIER', 'SOURCE']
+      2025-06-01T12:37 D2 lam 1.098: truth at col  26.4 row  27.8; flux there   412.9 +-  64.0 uJy (S/N   6.4); flags ['SOURCE']
+      2025-06-01T12:39 D2 lam 1.124: truth at col  26.4 row  27.8; flux there   246.2 +-  60.4 uJy (S/N   4.1); flags ['SOURCE']
+      2025-06-01T12:41 D2 lam 1.150: truth at col  26.4 row  27.8; flux there   250.4 +-  54.8 uJy (S/N   4.6); flags ['OUTLIER', 'SOURCE']
+      2025-06-01T12:43 D2 lam 1.178: truth at col  26.4 row  27.8; flux there   189.5 +-  54.9 uJy (S/N   3.5); flags ['SOURCE']
+      2025-06-01T15:53 D2 lam 1.616: truth at col  27.1 row  28.1; flux there   199.6 +-  48.6 uJy (S/N   4.1); flags ['SOURCE']
+      2025-06-01T20:46 D2 lam 1.325: truth at col  28.3 row  28.6; flux there   220.6 +-  55.0 uJy (S/N   4.0); flags ['OUTLIER', 'SOURCE']
+      2025-06-01T20:49 D2 lam 1.357: truth at col  28.3 row  28.6; flux there   265.8 +-  55.3 uJy (S/N   4.8); flags ['OUTLIER', 'SOURCE']
+      2025-06-01T20:51 D2 lam 1.389: truth at col  28.3 row  28.6; flux there   158.6 +-  54.6 uJy (S/N   2.9); flags ['OUTLIER', 'SOURCE']
+      2025-06-02T22:52 D2 lam 1.206: truth at col  34.1 row  31.5; flux there   507.8 +-  60.6 uJy (S/N   8.4); flags ['SOURCE']
+      2025-06-02T22:54 D2 lam 1.235: truth at col  34.1 row  31.5; flux there   582.7 +-  62.2 uJy (S/N   9.4); flags ['SOURCE']
+      2025-06-02T22:56 D2 lam 1.264: truth at col  34.1 row  31.5; flux there   619.1 +-  61.7 uJy (S/N  10.0); flags ['OUTLIER', 'SOURCE']
+      2025-06-02T22:58 D2 lam 1.294: truth at col  34.1 row  31.5; flux there   620.5 +-  75.1 uJy (S/N   8.3); flags ['OUTLIER', 'SOURCE']
+   field 1 2026-01-02: centre 202.31280 20.15208, delta 52.7277 au, elongation 89.0 deg, 22 frames in window
+      2025-12-31T03:58 D2 lam 1.344: truth at col  35.6 row  35.7; flux there   215.3 +-  60.5 uJy (S/N   3.6); flags ['OUTLIER']
+      2025-12-31T04:00 D2 lam 1.376: truth at col  35.6 row  35.7; flux there   276.7 +-  61.0 uJy (S/N   4.5); flags []
+      2025-12-31T04:02 D2 lam 1.409: truth at col  35.6 row  35.7; flux there   167.2 +-  60.6 uJy (S/N   2.8); flags []
+      2025-12-31T04:04 D2 lam 1.443: truth at col  35.6 row  35.7; flux there   131.6 +-  59.7 uJy (S/N   2.2); flags []
+      2025-12-31T13:44 D1 lam 0.817: truth at col  34.1 row  34.3; flux there   732.9 +-  64.3 uJy (S/N  11.4); flags []
+      2025-12-31T13:46 D1 lam 0.837: truth at col  34.1 row  34.3; flux there   573.6 +-  63.3 uJy (S/N   9.1); flags []
+      2025-12-31T13:48 D1 lam 0.856: truth at col  34.1 row  34.3; flux there   561.7 +-  61.8 uJy (S/N   9.1); flags []
+      2026-01-01T19:04 D2 lam 1.478: truth at col  29.7 row  29.8; flux there   447.1 +-  63.7 uJy (S/N   7.0); flags ['OUTLIER']
+      2026-01-01T19:06 D2 lam 1.513: truth at col  29.7 row  29.8; flux there   388.5 +-  61.6 uJy (S/N   6.3); flags ['OUTLIER']
+      2026-01-01T19:08 D2 lam 1.550: truth at col  29.7 row  29.8; flux there   583.5 +-  63.1 uJy (S/N   9.3); flags ['TRANSIENT', 'OUTLIER', 'HALO']
+      2026-01-01T19:10 D2 lam 1.588: truth at col  29.7 row  29.8; flux there   232.5 +-  59.0 uJy (S/N   3.9); flags ['OUTLIER']
+      2026-01-01T20:41 D1 lam 0.877: truth at col  29.5 row  29.5; flux there   488.3 +-  61.1 uJy (S/N   8.0); flags ['OUTLIER']
+      2026-01-01T20:43 D1 lam 0.898: truth at col  29.5 row  29.5; flux there   181.3 +-  62.6 uJy (S/N   2.9); flags ['OUTLIER', 'HALO']
+      2026-01-02T08:07 D2 lam 1.626: truth at col  27.9 row  27.7; flux there   152.7 +-  57.9 uJy (S/N   2.6); flags []
+      2026-01-02T13:00 D2 lam 1.104: truth at col  27.2 row  27.0; flux there   410.8 +-  60.8 uJy (S/N   6.8); flags []
+      2026-01-02T13:02 D2 lam 1.130: truth at col  27.2 row  27.0; flux there   212.4 +-  57.5 uJy (S/N   3.7); flags []
+      2026-01-02T13:04 D2 lam 1.157: truth at col  27.2 row  27.0; flux there   177.2 +-  55.6 uJy (S/N   3.2); flags []
+      2026-01-02T13:06 D2 lam 1.185: truth at col  27.2 row  26.9; flux there   319.3 +-  57.6 uJy (S/N   5.5); flags ['OUTLIER']
+      2026-01-03T18:20 D2 lam 1.213: truth at col  23.2 row  22.3; flux there  1807.6 +-  75.6 uJy (S/N  23.9); flags ['OUTLIER']
+      2026-01-03T18:22 D2 lam 1.242: truth at col  23.2 row  22.3; flux there  1724.3 +-  76.3 uJy (S/N  22.6); flags []
+      2026-01-03T18:24 D2 lam 1.272: truth at col  23.2 row  22.3; flux there  2243.6 +-  78.1 uJy (S/N  28.7); flags []
+      2026-01-03T18:27 D2 lam 1.302: truth at col  23.2 row  22.3; flux there  2001.0 +-  76.3 uJy (S/N  26.2); flags []
+   field 2 2026-06-05: centre 200.74029 21.01165, delta 52.3193 au, elongation 113.3 deg, 18 frames in window
+      2026-06-04T15:41 D2 lam 1.365: truth at col  27.2 row  28.1; flux there   253.7 +-  50.1 uJy (S/N   5.1); flags []
+      2026-06-04T15:43 D2 lam 1.397: truth at col  27.2 row  28.1; flux there   164.4 +-  51.7 uJy (S/N   3.2); flags ['OUTLIER']
+      2026-06-04T15:45 D2 lam 1.431: truth at col  27.2 row  28.1; flux there   238.5 +-  51.3 uJy (S/N   4.6); flags ['NONFUNC', 'OUTLIER']
+      2026-06-04T15:47 D2 lam 1.465: truth at col  27.2 row  28.1; flux there   439.3 +-  51.5 uJy (S/N   8.5); flags []
+      2026-06-04T17:25 D2 lam 1.095: truth at col  27.6 row  28.2; flux there   575.2 +-  79.7 uJy (S/N   7.2); flags ['OUTLIER']
+      2026-06-04T20:34 D2 lam 1.500: truth at col  28.3 row  28.6; flux there   399.2 +-  54.9 uJy (S/N   7.3); flags ['OUTLIER']
+      2026-06-04T20:36 D2 lam 1.536: truth at col  28.3 row  28.6; flux there   481.7 +-  59.5 uJy (S/N   8.1); flags ['OUTLIER']
+      2026-06-04T20:38 D2 lam 1.574: truth at col  28.3 row  28.6; flux there   423.2 +-  54.1 uJy (S/N   7.8); flags ['OUTLIER']
+      2026-06-04T20:40 D2 lam 1.611: truth at col  28.3 row  28.6; flux there   144.8 +-  51.3 uJy (S/N   2.8); flags ['OUTLIER']
+      2026-06-05T04:43 D2 lam 1.120: truth at col  30.0 row  29.6; flux there   358.2 +-  56.1 uJy (S/N   6.4); flags ['OUTLIER']
+      2026-06-05T04:45 D2 lam 1.147: truth at col  30.0 row  29.6; flux there   170.8 +-  53.0 uJy (S/N   3.2); flags ['OUTLIER']
+      2026-06-05T04:47 D2 lam 1.174: truth at col  30.0 row  29.6; flux there   202.5 +-  54.5 uJy (S/N   3.7); flags ['OUTLIER']
+      2026-06-05T04:49 D2 lam 1.202: truth at col  30.0 row  29.6; flux there   467.6 +-  56.7 uJy (S/N   8.2); flags ['OUTLIER']
+      2026-06-05T16:07 D2 lam 1.650: truth at col  32.5 row  30.9; flux there   129.7 +-  51.7 uJy (S/N   2.5); flags []
+      2026-06-07T03:58 D2 lam 1.231: truth at col  39.9 row  35.3; flux there   559.1 +-  58.1 uJy (S/N   9.6); flags ['TRANSIENT', 'HALO']
+      2026-06-07T04:00 D2 lam 1.260: truth at col  39.9 row  35.3; flux there   488.0 +-  56.3 uJy (S/N   8.7); flags []
+      2026-06-07T04:03 D2 lam 1.290: truth at col  39.9 row  35.3; flux there   407.0 +-  53.8 uJy (S/N   7.6); flags []
+      2026-06-07T04:05 D2 lam 1.321: truth at col  39.9 row  35.3; flux there   153.0 +-  52.1 uJy (S/N   2.9); flags []
